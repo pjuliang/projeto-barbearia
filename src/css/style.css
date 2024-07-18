@@ -542,7 +542,7 @@ button {
     .formulario {
     position: fixed;
     top: 40px;
-    width: 100px;
+    width: 300px;
     height: 100%;
     z-index: 3;
     left: -100%;
