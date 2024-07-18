@@ -364,15 +364,6 @@ button {
     margin-top: 10px;
 }
 
-.formulario {
-    position: fixed;
-    top: 40px;
-    width: 600px;
-    height: 100%;
-    z-index: 3;
-    left: -50%;
-    transition: 1.5s;
-}
 
 .test-orquidea {
     color: black;
@@ -551,7 +542,7 @@ button {
     .formulario {
     position: fixed;
     top: 40px;
-    width: 300px;
+    width: 100px;
     height: 100%;
     z-index: 3;
     left: -100%;
